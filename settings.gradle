@@ -1,0 +1,10 @@
+/*
+ * Copyright James Brown 2024
+ * Author: James Brown
+ */
+
+rootProject.name = 'search-for-omega'
+
+include 'render'
+include 'logic'
+include 'main'
